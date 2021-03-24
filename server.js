@@ -257,9 +257,9 @@ let rappers = {
         'birthName': 'Jason William Mizell',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
+    'darryl mcdaniels': {
         'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+        'birthName': 'Darryl Matthews McDaniels',
         'birthLocation': 'New York, New York'
     },
 }
