@@ -252,9 +252,9 @@ let rappers = {
         'birthName': 'David R. Styles',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'jam master jay': {
+        'age': 55,
+        'birthName': 'Jason William Mizell',
         'birthLocation': 'New York, New York'
     },
 }
