@@ -258,13 +258,13 @@ let rappers = {
         'birthLocation': 'New York, New York'
     },
     'darryl mcdaniels': {
-        'age': 60,
+        'age': 56,
         'birthName': 'Darryl Matthews McDaniels',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'joseph simmons': {
+        'age': 56,
+        'birthName': 'Joseph Ward Simmons',
         'birthLocation': 'New York, New York'
     },
 }
