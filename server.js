@@ -247,9 +247,9 @@ let rappers = {
         'birthName': 'Sean Divine Jacobs',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'styles p': {
+        'age': 46,
+        'birthName': 'David R. Styles',
         'birthLocation': 'New York, New York'
     },
 }
