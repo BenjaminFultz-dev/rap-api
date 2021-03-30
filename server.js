@@ -242,9 +242,9 @@ let rappers = {
         'birthName': 'Jason Terrance Phillips',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'sheek louch': {
+        'age': 44,
+        'birthName': 'Sean Divine Jacobs',
         'birthLocation': 'New York, New York'
     },
 }
