@@ -272,9 +272,9 @@ let rappers = {
         'birthName': 'Robert Ginyard',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'treach': {
+        'age': 50,
+        'birthName': 'Anthony Criss',
         'birthLocation': 'New York, New York'
     },
 }
