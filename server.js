@@ -277,9 +277,9 @@ let rappers = {
         'birthName': 'Anthony Criss',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'vin rock': {
+        'age': 50,
+        'birthName': 'Vincent Brown',
         'birthLocation': 'New York, New York'
     },
 }
