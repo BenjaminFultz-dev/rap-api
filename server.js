@@ -237,9 +237,9 @@ let rappers = {
         'birthName': 'Sean Combs',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'jadakiss': {
+        'age': 46,
+        'birthName': 'Jason Terrance Phillips',
         'birthLocation': 'New York, New York'
     },
 }
