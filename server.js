@@ -282,9 +282,9 @@ let rappers = {
         'birthName': 'Vincent Brown',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'guru': {
+        'age': 59,
+        'birthName': 'Keith Edward Elam',
         'birthLocation': 'New York, New York'
     },
 }
