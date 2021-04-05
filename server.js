@@ -287,9 +287,9 @@ let rappers = {
         'birthName': 'Keith Edward Elam',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'eve': {
+        'age': 52,
+        'birthName': 'Eve Jihan Cooper',
         'birthLocation': 'New York, New York'
     },
 }
