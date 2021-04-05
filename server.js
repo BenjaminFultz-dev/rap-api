@@ -227,9 +227,9 @@ let rappers = {
         'birthName': 'Lemont Coleman',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'big pun': {
+        'age': 49,
+        'birthName': 'Christopher Lee Rios',
         'birthLocation': 'New York, New York'
     },
 }
