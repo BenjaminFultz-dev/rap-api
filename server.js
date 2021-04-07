@@ -292,9 +292,9 @@ let rappers = {
         'birthName': 'Eve Jihan Cooper',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'ja rule': {
+        'age': 54,
+        'birthName': 'Jeffrey Bruce Atkins',
         'birthLocation': 'New York, New York'
     },
 }
