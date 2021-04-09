@@ -297,9 +297,9 @@ let rappers = {
         'birthName': 'Jeffrey Bruce Atkins',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'mc serch': {
+        'age': 43,
+        'birthName': 'Michael Berrin',
         'birthLocation': 'New York, New York'
     },
 }
