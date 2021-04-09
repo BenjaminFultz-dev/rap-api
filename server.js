@@ -217,9 +217,9 @@ let rappers = {
         'birthName': 'Albert Johnson',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'fat joe': {
+        'age': 50,
+        'birthName': 'Joseph Antonio Cartagena',
         'birthLocation': 'New York, New York'
     },
 }
