@@ -298,8 +298,13 @@ let rappers = {
         'birthLocation': 'New York, New York'
     },
     'mc serch': {
-        'age': 43,
+        'age': 53,
         'birthName': 'Michael Berrin',
+        'birthLocation': 'New York, New York'
+    },
+    'pete nice': {
+        'age': 54,
+        'birthName': 'Peter J. Nash',
         'birthLocation': 'New York, New York'
     },
 }
