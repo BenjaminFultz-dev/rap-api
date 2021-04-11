@@ -307,6 +307,11 @@ let rappers = {
         'birthName': 'Peter J. Nash',
         'birthLocation': 'New York, New York'
     },
+    'chuck d': {
+        'age': 60,
+        'birthName': 'Carlton Douglas Ridenhour',
+        'birthLocation': 'New York, New York'
+    },
 }
 
 
