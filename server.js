@@ -212,9 +212,9 @@ let rappers = {
         'birthName': 'Kejuan Waliek Muchita',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'prodigy': {
+        'age': 46,
+        'birthName': 'Albert Johnson',
         'birthLocation': 'New York, New York'
     },
 }
