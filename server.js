@@ -307,9 +307,9 @@ let rappers = {
         'birthName': 'Peter J. Nash',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'lil kim': {
+        'age': 46,
+        'birthName': 'Kimberly Denise Jones',
         'birthLocation': 'New York, New York'
     },
 }
