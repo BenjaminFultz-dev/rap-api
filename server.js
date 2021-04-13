@@ -207,6 +207,11 @@ let rappers = {
         'birthName': 'Trevor George Smith Jr.',
         'birthLocation': 'New York, New York'
     },
+    'chuck d': {
+        'age': 60,
+        'birthName': 'Carlton Douglas Ridenhour',
+        'birthLocation': 'New York, New York'
+    },
 }
 
 
