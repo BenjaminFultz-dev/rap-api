@@ -207,9 +207,9 @@ let rappers = {
         'birthName': 'Trevor George Smith Jr.',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'havoc': {
+        'age': 46,
+        'birthName': 'Kejuan Waliek Muchita',
         'birthLocation': 'New York, New York'
     },
 }
