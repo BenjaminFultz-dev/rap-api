@@ -202,9 +202,9 @@ let rappers = {
         'birthName': 'Earl Simmons',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'busta rhymes': {
+        'age': 48,
+        'birthName': 'Trevor George Smith Jr.',
         'birthLocation': 'New York, New York'
     },
 }
