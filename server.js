@@ -312,9 +312,9 @@ let rappers = {
         'birthName': 'Kimberly Denise Jones',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'foxy brown': {
+        'age': 42,
+        'birthName': 'Inga DeCarlo Fung Marchand',
         'birthLocation': 'New York, New York'
     },
 }
