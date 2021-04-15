@@ -317,6 +317,11 @@ let rappers = {
         'birthName': 'Inga DeCarlo Fung Marchand',
         'birthLocation': 'New York, New York'
     },
+    'chuck d': {
+        'age': 60,
+        'birthName': 'Carlton Douglas Ridenhour',
+        'birthLocation': 'New York, New York'
+    },
 }
 
 
