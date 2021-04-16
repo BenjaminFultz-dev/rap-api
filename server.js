@@ -197,9 +197,9 @@ let rappers = {
         'birthName': 'Curtis James Jackson III',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'dmx': {
+        'age': 50,
+        'birthName': 'Earl Simmons',
         'birthLocation': 'New York, New York'
     },
 }
