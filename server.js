@@ -317,9 +317,9 @@ let rappers = {
         'birthName': 'Inga DeCarlo Fung Marchand',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'everlast': {
+        'age': 51,
+        'birthName': 'Erik Francis Schrody',
         'birthLocation': 'New York, New York'
     },
 }
