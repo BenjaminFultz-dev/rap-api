@@ -192,9 +192,9 @@ let rappers = {
         'birthName': 'Shawn Corey Carter',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    '50 cent': {
+        'age': 45,
+        'birthName': 'Curtis James Jackson III',
         'birthLocation': 'New York, New York'
     },
 }
