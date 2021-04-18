@@ -322,9 +322,9 @@ let rappers = {
         'birthName': 'Erik Francis Schrody',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'danny boy': {
+        'age': 52,
+        'birthName': 'Daniel O\'Connor',
         'birthLocation': 'New York, New York'
     },
 }
