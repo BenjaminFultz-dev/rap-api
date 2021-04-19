@@ -187,9 +187,9 @@ let rappers = {
         'birthName': 'James Todd Smith',
         'birthLocation': 'Bay Shore, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'jay-z': {
+        'age': 51,
+        'birthName': 'Shawn Corey Carter',
         'birthLocation': 'New York, New York'
     },
 }
