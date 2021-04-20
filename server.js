@@ -327,9 +327,9 @@ let rappers = {
         'birthName': 'Daniel O\'Connor',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'dray': {
+        'age': 50,
+        'birthName': 'Andre Weston',
         'birthLocation': 'New York, New York'
     },
 }
