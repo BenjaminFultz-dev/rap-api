@@ -332,9 +332,9 @@ let rappers = {
         'birthName': 'Andre Weston',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'skoob': {
+        'age': 50,
+        'birthName': 'William Hines',
         'birthLocation': 'New York, New York'
     },
 }
