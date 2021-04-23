@@ -337,9 +337,9 @@ let rappers = {
         'birthName': 'William Hines',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'mc lyte': {
+        'age': 50,
+        'birthName': 'Lana Michele Moorer',
         'birthLocation': 'New York, New York'
     },
 }
