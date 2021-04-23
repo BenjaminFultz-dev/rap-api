@@ -177,9 +177,9 @@ let rappers = {
         'birthName': 'Percy Carey',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'kool g rap': {
+        'age': 52,
+        'birthName': 'Nathaniel Thomas Wilson',
         'birthLocation': 'New York, New York'
     },
 }
