@@ -342,10 +342,10 @@ let rappers = {
         'birthName': 'Lana Michele Moorer',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
-        'birthLocation': 'New York, New York'
+    'wyclef jean': {
+        'age': 51,
+        'birthName': 'Nel Ust Wyclef Jean',
+        'birthLocation': 'Croix-des-Bouquets, Haiti'
     },
 }
 
