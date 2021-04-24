@@ -177,6 +177,11 @@ let rappers = {
         'birthName': 'Percy Carey',
         'birthLocation': 'New York, New York'
     },
+    'chuck d': {
+        'age': 60,
+        'birthName': 'Carlton Douglas Ridenhour',
+        'birthLocation': 'New York, New York'
+    },
 }
 
 
