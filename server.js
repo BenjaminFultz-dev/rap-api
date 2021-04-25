@@ -172,9 +172,9 @@ let rappers = {
         'birthName': 'Jarobi White',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'mf grimm': {
+        'age': 50,
+        'birthName': 'Percy Carey',
         'birthLocation': 'New York, New York'
     },
 }
