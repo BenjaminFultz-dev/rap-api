@@ -347,9 +347,9 @@ let rappers = {
         'birthName': 'Nel Ust Wyclef Jean',
         'birthLocation': 'Croix-des-Bouquets, Haiti'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'mase': {
+        'age': 45,
+        'birthName': 'Mason Durell Betha',
         'birthLocation': 'New York, New York'
     },
 }
