@@ -352,9 +352,9 @@ let rappers = {
         'birthName': 'Mason Durell Betha',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'pete rock': {
+        'age': 50,
+        'birthName': 'Peter O. Phillips',
         'birthLocation': 'New York, New York'
     },
 }
