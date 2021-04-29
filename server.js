@@ -162,9 +162,9 @@ let rappers = {
         'birthName': 'Malik Izaak Taylor',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'ali shaheed muhammad': {
+        'age': 50,
+        'birthName': 'Ali Shaheed Muhammad',
         'birthLocation': 'New York, New York'
     },
 }
