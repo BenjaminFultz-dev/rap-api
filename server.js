@@ -357,9 +357,9 @@ let rappers = {
         'birthName': 'Peter O. Phillips',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'cl smooth': {
+        'age': 52,
+        'birthName': 'Corey Brent Penn',
         'birthLocation': 'New York, New York'
     },
 }
