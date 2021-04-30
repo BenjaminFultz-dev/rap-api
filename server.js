@@ -362,12 +362,12 @@ let rappers = {
         'birthName': 'Corey Brent Penn',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'lauryn hill': {
+        'age': 45,
+        'birthName': 'Lauryn Noelle Hill',
         'birthLocation': 'New York, New York'
     },
-}
+}   
 
 
 app.get('/', (req, res) => {
