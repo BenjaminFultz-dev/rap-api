@@ -157,9 +157,9 @@ let rappers = {
         'birthName': 'Jonathan William Davis',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'phife dawg': {
+        'age': 50,
+        'birthName': 'Malik Izaak Taylor',
         'birthLocation': 'New York, New York'
     },
 }
