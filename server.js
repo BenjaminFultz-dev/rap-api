@@ -152,9 +152,9 @@ let rappers = {
         'birthName': 'Richard Martin Lloyd Walters',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'q-tip': {
+        'age': 50,
+        'birthName': 'Jonathan William Davis',
         'birthLocation': 'New York, New York'
     },
 }
