@@ -372,10 +372,10 @@ let rappers = {
         'birthName': 'Prakazrel Samuel Michel',
         'birthLocation': 'Irvington, New Jersey'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
-        'birthLocation': 'New York, New York'
+    'doitall': {
+        'age': 49,
+        'birthName': 'Dupre Kelly',
+        'birthLocation': 'Newark, New Jersey'
     },
 }   
 
