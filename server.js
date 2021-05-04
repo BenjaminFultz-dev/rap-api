@@ -377,6 +377,11 @@ let rappers = {
         'birthName': 'Dupre Kelly',
         'birthLocation': 'Newark, New Jersey'
     },
+    'chuck d': {
+        'age': 60,
+        'birthName': 'Carlton Douglas Ridenhour',
+        'birthLocation': 'New York, New York'
+    },
 }   
 
 
