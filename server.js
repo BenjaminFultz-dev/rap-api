@@ -147,9 +147,9 @@ let rappers = {
         'birthName': 'Antonio Hardy',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'slick rick': {
+        'age': 55,
+        'birthName': 'Richard Martin Lloyd Walters',
         'birthLocation': 'New York, New York'
     },
 }
