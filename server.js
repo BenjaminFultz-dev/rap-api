@@ -142,9 +142,9 @@ let rappers = {
         'birthName': 'Derrick Jones',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'big daddy kane': {
+        'age': 52,
+        'birthName': 'Antonio Hardy',
         'birthLocation': 'New York, New York'
     },
 }
