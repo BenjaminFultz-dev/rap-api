@@ -382,9 +382,9 @@ let rappers = {
         'birthName': 'Al\'Terik Wardrick',
         'birthLocation': 'Newark, New Jersey'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'biz markie': {
+        'age': 56,
+        'birthName': 'Marcel Theo Hall',
         'birthLocation': 'New York, New York'
     },
 }   
