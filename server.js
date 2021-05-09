@@ -137,9 +137,9 @@ let rappers = {
         'birthName': 'Lawrence Parker',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'd-nice': {
+        'age': 50,
+        'birthName': 'Derrick Jones',
         'birthLocation': 'New York, New York'
     },
 }
