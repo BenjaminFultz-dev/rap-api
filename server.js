@@ -388,8 +388,8 @@ let rappers = {
         'birthLocation': 'New York, New York'
     },
     'grand puba': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+        'age': 54,
+        'birthName': 'Maxwell Dixon',
         'birthLocation': 'New York, New York'
     },
 }   
