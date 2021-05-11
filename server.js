@@ -392,9 +392,9 @@ let rappers = {
         'birthName': 'Maxwell Dixon',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'sadat x': {
+        'age': 52,
+        'birthName': 'Derek Murphy',
         'birthLocation': 'New York, New York'
     },
 }   
