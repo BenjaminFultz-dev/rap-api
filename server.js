@@ -132,9 +132,9 @@ let rappers = {
         'birthName': 'Adam Keefe Horovitz',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'krs-one': {
+        'age': 55,
+        'birthName': 'Lawrence Parker',
         'birthLocation': 'New York, New York'
     },
 }
