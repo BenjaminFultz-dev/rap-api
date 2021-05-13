@@ -127,9 +127,9 @@ let rappers = {
         'birthName': 'Adam Nathaniel Yauch',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'ad-rock': {
+        'age': 54,
+        'birthName': 'Adam Keefe Horovitz',
         'birthLocation': 'New York, New York'
     },
 }
