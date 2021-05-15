@@ -122,9 +122,9 @@ let rappers = {
         'birthName': 'Michael Louis Diamond',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'mca': {
+        'age': 56,
+        'birthName': 'Adam Nathaniel Yauch',
         'birthLocation': 'New York, New York'
     },
 }
