@@ -402,9 +402,9 @@ let rappers = {
         'birthName': 'Lorenzo Dechalus',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'killah priest': {
+        'age': 50,
+        'birthName': 'Walter Reed',
         'birthLocation': 'New York, New York'
     },
 }   
