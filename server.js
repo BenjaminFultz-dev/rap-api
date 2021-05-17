@@ -117,9 +117,9 @@ let rappers = {
         'birthName': 'William Jonathan Drayton Jr.',
         'birthLocation': 'New York, New York'
     },
-    'chuck d': {
-        'age': 60,
-        'birthName': 'Carlton Douglas Ridenhour',
+    'mike d': {
+        'age': 55,
+        'birthName': 'Michael Louis Diamond',
         'birthLocation': 'New York, New York'
     },
 }
