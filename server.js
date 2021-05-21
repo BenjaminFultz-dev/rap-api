@@ -108,8 +108,8 @@ let rappers = {
         'birthLocation': 'New York, New York'
     },
     'chuck d': {
-        'age': 57,
-        'birthName': 'William Michael Griffin Jr.',
+        'age': 60,
+        'birthName': 'Carlton Douglas Ridenhour',
         'birthLocation': 'New York, New York'
     },
 }
