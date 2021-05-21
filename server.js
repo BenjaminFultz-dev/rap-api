@@ -417,9 +417,9 @@ let rappers = {
         'birthName': 'Rufus Arthur Johnson',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'black milk': {
+        'age': 38,
+        'birthName': 'Curtis Eugene Cross',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
