@@ -107,6 +107,11 @@ let rappers = {
         'birthName': 'William Michael Griffin Jr.',
         'birthLocation': 'New York, New York'
     },
+    'chuck d': {
+        'age': 57,
+        'birthName': 'William Michael Griffin Jr.',
+        'birthLocation': 'New York, New York'
+    },
 }
 
 
