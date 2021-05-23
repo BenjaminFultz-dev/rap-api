@@ -422,9 +422,9 @@ let rappers = {
         'birthName': 'Curtis Eugene Cross',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'boss': {
+        'age': 51,
+        'birthName': 'Lichelle Laws',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
