@@ -102,9 +102,9 @@ let rappers = {
         'birthName': 'Louis Eric Barrier',
         'birthLocation': 'New York, New York'
     },
-    'eric b.': {
+    'rakim': {
         'age': 57,
-        'birthName': 'Louis Eric Barrier',
+        'birthName': 'William Michael Griffin Jr.',
         'birthLocation': 'New York, New York'
     },
 }
