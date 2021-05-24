@@ -102,6 +102,11 @@ let rappers = {
         'birthName': 'Louis Eric Barrier',
         'birthLocation': 'New York, New York'
     },
+    'eric b.': {
+        'age': 57,
+        'birthName': 'Louis Eric Barrier',
+        'birthLocation': 'New York, New York'
+    },
 }
 
 
