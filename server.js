@@ -427,9 +427,9 @@ let rappers = {
         'birthName': 'Lichelle Laws',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'danny brown': {
+        'age': 40,
+        'birthName': 'Daniel Dewan Sewell',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
