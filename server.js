@@ -97,6 +97,11 @@ let rappers = {
         'birthName': 'Parrish J. Smith',
         'birthLocation': 'New York, New York'
     },
+    'parrish mic doc': {
+        'age': 52,
+        'birthName': 'Parrish J. Smith',
+        'birthLocation': 'New York, New York'
+    },
 }
 
 
