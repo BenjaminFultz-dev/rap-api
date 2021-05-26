@@ -92,7 +92,7 @@ let rappers = {
         'birthName': 'Erick Sermon',
         'birthLocation': 'New York, New York'
     },
-    'parrish smith': {
+    'parrish mic doc': {
         'age': 52,
         'birthName': 'Parrish J. Smith',
         'birthLocation': 'New York, New York'
