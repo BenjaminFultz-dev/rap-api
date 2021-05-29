@@ -92,6 +92,11 @@ let rappers = {
         'birthName': 'Erick Sermon',
         'birthLocation': 'New York, New York'
     },
+    'erick sermon': {
+        'age': 52,
+        'birthName': 'Erick Sermon',
+        'birthLocation': 'New York, New York'
+    },
 }
 
 
