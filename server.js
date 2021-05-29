@@ -428,7 +428,7 @@ let rappers = {
         'birthLocation': 'Detroit, Michigan'
     },
     'danny brown': {
-        'age': 40,
+        'age': 39,
         'birthName': 'Daniel Dewan Sewell',
         'birthLocation': 'Detroit, Michigan'
     },
@@ -437,9 +437,9 @@ let rappers = {
         'birthName': 'Parris Lynell Fluellen',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'elzhi': {
+        'age': 42,
+        'birthName': 'Jason Powers',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
