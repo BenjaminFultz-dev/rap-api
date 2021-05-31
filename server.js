@@ -442,9 +442,9 @@ let rappers = {
         'birthName': 'Jason Powers',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'eminem': {
+        'age': 48,
+        'birthName': 'Marshall Bruce Mathers III',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
