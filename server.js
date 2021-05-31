@@ -87,6 +87,11 @@ let rappers = {
         'birthName': 'Nasir bin Olu Dara Jones',
         'birthLocation': 'New York, New York'
     },
+    'nas': {
+        'age': 47,
+        'birthName': 'Nasir bin Olu Dara Jones',
+        'birthLocation': 'New York, New York'
+    },
 }
 
 
