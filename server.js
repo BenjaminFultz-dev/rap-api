@@ -452,9 +452,9 @@ let rappers = {
         'birthName': 'Esham Attica Smith',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'fatt father': {
+        'age': 50,
+        'birthName': 'Shabazz Ford',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
