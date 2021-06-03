@@ -82,9 +82,9 @@ let rappers = {
         'birthName': 'Christopher George Latore Wallace',
         'birthLocation': 'New York, New York'
     },
-    'notorious b.i.g.': {
-        'age': 48,
-        'birthName': 'Christopher George Latore Wallace',
+    'nas': {
+        'age': 47,
+        'birthName': 'Nasir bin Olu Dara Jones',
         'birthLocation': 'New York, New York'
     },
 }
