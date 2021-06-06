@@ -82,6 +82,11 @@ let rappers = {
         'birthName': 'Christopher George Latore Wallace',
         'birthLocation': 'New York, New York'
     },
+    'notorious b.i.g.': {
+        'age': 48,
+        'birthName': 'Christopher George Latore Wallace',
+        'birthLocation': 'New York, New York'
+    },
 }
 
 
