@@ -77,9 +77,9 @@ let rappers = {
         'birthName': 'Darryl Hill',
         'birthLocation': 'New York, New York'
     },
-    'cappadonna': {
-        'age': 52,
-        'birthName': 'Darryl Hill',
+    'notorious b.i.g.': {
+        'age': 48,
+        'birthName': 'Christopher George Latore Wallace',
         'birthLocation': 'New York, New York'
     },
 }
