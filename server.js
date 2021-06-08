@@ -77,6 +77,11 @@ let rappers = {
         'birthName': 'Darryl Hill',
         'birthLocation': 'New York, New York'
     },
+    'cappadonna': {
+        'age': 52,
+        'birthName': 'Darryl Hill',
+        'birthLocation': 'New York, New York'
+    },
 }
 
 
