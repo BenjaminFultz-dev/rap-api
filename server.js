@@ -467,9 +467,9 @@ let rappers = {
         'birthName': 'Arkeisha Antoinette Knight',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'king gordy': {
+        'age': 43,
+        'birthName': 'Waverly Walter Alford III',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
