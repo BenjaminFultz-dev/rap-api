@@ -72,9 +72,9 @@ let rappers = {
         'birthName': 'Lamont Jody Hawkins',
         'birthLocation': 'New York, New York'
     },
-    'u-god': {
-        'age': 50,
-        'birthName': 'Lamont Jody Hawkins',
+    'cappadonna': {
+        'age': 52,
+        'birthName': 'Darryl Hill',
         'birthLocation': 'New York, New York'
     },
 }
