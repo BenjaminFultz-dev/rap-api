@@ -72,6 +72,11 @@ let rappers = {
         'birthName': 'Lamont Jody Hawkins',
         'birthLocation': 'New York, New York'
     },
+    'u-god': {
+        'age': 50,
+        'birthName': 'Lamont Jody Hawkins',
+        'birthLocation': 'New York, New York'
+    },
 }
 
 
