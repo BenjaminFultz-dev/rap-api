@@ -477,9 +477,9 @@ let rappers = {
         'birthName': 'Terry Sanchez Wallace Jr.',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'angel haze': {
+        'age': 30,
+        'birthName': 'Raykeea Raeen-Roes Wilson',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
