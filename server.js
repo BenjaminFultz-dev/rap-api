@@ -67,10 +67,10 @@ let rappers = {
         'birthName': 'Jason Richard Hunter',
         'birthLocation': 'Staten Island, New York'
     },
-    'inspectah deck': {
+    'u-god': {
         'age': 50,
-        'birthName': 'Jason Richard Hunter',
-        'birthLocation': 'Staten Island, New York'
+        'birthName': 'Lamont Jody Hawkins',
+        'birthLocation': 'New York, New York'
     },
 }
 
