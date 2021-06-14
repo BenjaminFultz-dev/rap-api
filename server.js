@@ -482,6 +482,11 @@ let rappers = {
         'birthName': 'Raykeea Raeen-Roes Wilson',
         'birthLocation': 'Detroit, Michigan'
     },
+    'big sean': {
+        'age': 33,
+        'birthName': 'Sean Michael-Leonard Anderson',
+        'birthLocation': 'Detroit, Michigan'
+    },
 }   
 
 
