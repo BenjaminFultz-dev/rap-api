@@ -67,6 +67,11 @@ let rappers = {
         'birthName': 'Jason Richard Hunter',
         'birthLocation': 'Staten Island, New York'
     },
+    'inspectah deck': {
+        'age': 50,
+        'birthName': 'Jason Richard Hunter',
+        'birthLocation': 'Staten Island, New York'
+    },
 }
 
 
