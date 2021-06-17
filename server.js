@@ -487,9 +487,9 @@ let rappers = {
         'birthName': 'Daniel Carlisle',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'illa j': {
+        'age': 35,
+        'birthName': 'John Derek Yancey',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
