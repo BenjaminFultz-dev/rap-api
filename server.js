@@ -62,6 +62,11 @@ let rappers = {
         'birthName': 'Dennis David Coles',
         'birthLocation': 'Staten Island, New York'
     },
+    'ghostface killah': {
+        'age': 51,
+        'birthName': 'Dennis David Coles',
+        'birthLocation': 'Staten Island, New York'
+    },
 }
 
 
