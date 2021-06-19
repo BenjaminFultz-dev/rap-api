@@ -57,10 +57,10 @@ let rappers = {
         'birthName': 'Corey Woods',
         'birthLocation': 'Brooklyn, New York'
     },
-    'raekwon': {
-        'age': 50,
-        'birthName': 'Corey Woods',
-        'birthLocation': 'Brooklyn, New York'
+    'ghostface killah': {
+        'age': 51,
+        'birthName': 'Dennis David Coles',
+        'birthLocation': 'Staten Island, New York'
     },
 }
 
