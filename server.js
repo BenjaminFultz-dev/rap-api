@@ -492,9 +492,9 @@ let rappers = {
         'birthName': 'John Derek Yancey',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'j dilla': {
+        'age': 46,
+        'birthName': 'James Dewitt Yancey',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
