@@ -497,9 +497,9 @@ let rappers = {
         'birthName': 'James Dewitt Yancey',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'royce da 5\'9"': {
+        'age': 43,
+        'birthName': 'Ryan Daniel Montgomery',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
