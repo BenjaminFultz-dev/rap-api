@@ -52,6 +52,11 @@ let rappers = {
         'birthName': 'Gary Earl Grice',
         'birthLocation': 'New York, New York'
     },
+    'raekwon': {
+        'age': 50,
+        'birthName': 'Corey Woods',
+        'birthLocation': 'Brooklyn, New York'
+    },
 }
 
 
