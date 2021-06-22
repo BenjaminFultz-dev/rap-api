@@ -502,9 +502,9 @@ let rappers = {
         'birthName': 'Ryan Daniel Montgomery',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'lazarus': {
+        'age': 43,
+        'birthName': 'Kamran Rashid Khan',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
