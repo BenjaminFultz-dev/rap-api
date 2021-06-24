@@ -507,9 +507,9 @@ let rappers = {
         'birthName': 'Kamran Rashid Khan',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
+    'lizzo': {
         'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+        'birthName': 'Melissa Viviane Jefferson',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
