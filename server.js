@@ -47,6 +47,11 @@ let rappers = {
         'birthName': 'Robert Fitzgerald Diggs',
         'birthLocation': 'New York, New York'
     },
+    'gza': {
+        'age': 54,
+        'birthName': 'Gary Earl Grice',
+        'birthLocation': 'New York, New York'
+    },
 }
 
 
