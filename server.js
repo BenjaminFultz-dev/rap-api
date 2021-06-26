@@ -512,9 +512,9 @@ let rappers = {
         'birthName': 'Melissa Viviane Jefferson',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'dej loaf': {
+        'age': 29,
+        'birthName': 'Deja Monet Trimble',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
