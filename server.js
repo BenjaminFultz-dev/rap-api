@@ -42,6 +42,11 @@ let rappers = {
         'birthName': 'Russell Tyrone Jones',
         'birthLocation': 'New York, New York'
     },
+    'rza': {
+        'age': 52,
+        'birthName': 'Robert Fitzgerald Diggs',
+        'birthLocation': 'New York, New York'
+    },
 }
 
 
