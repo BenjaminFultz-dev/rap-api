@@ -517,9 +517,9 @@ let rappers = {
         'birthName': 'Deja Monet Trimble',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'proof': {
+        'age': 47,
+        'birthName': 'DeSean Dupree Holton',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
