@@ -37,6 +37,11 @@ let rappers = {
         'birthName': 'Jamel Irief',
         'birthLocation': 'Brooklyn, New York'
     },
+    'masta killa': {
+        'age': 51,
+        'birthName': 'Jamel Irief',
+        'birthLocation': 'Brooklyn, New York'
+    },
 }
 
 
