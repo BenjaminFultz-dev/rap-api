@@ -32,10 +32,10 @@ let rappers = {
         'birthName': 'Reginald Noble',
         'birthLocation': 'Newark, New Jersey'
     },
-    'redman': {
-        'age': 50,
-        'birthName': 'Reginald Noble',
-        'birthLocation': 'Newark, New Jersey'
+    'masta killa': {
+        'age': 51,
+        'birthName': 'Jamel Irief',
+        'birthLocation': 'Brooklyn, New York'
     },
 }
 
