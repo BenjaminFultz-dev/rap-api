@@ -525,7 +525,7 @@ let rappers = {
     'boots riley': {
         'age': 49,
         'birthName': 'Raymond Lawrence Riley',
-        'birthLocation': 'Detroit, Michigan'
+        'birthLocation': 'Chicago, Illinois'
     },
     'big sean': {
         'age': 33,
