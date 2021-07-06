@@ -31,7 +31,12 @@ let rappers = {
         'age': 50,
         'birthName': 'Reginald Noble',
         'birthLocation': 'Newark, New Jersey'
-    }
+    },
+    'redman': {
+        'age': 50,
+        'birthName': 'Reginald Noble',
+        'birthLocation': 'Newark, New Jersey'
+    },
 }
 
 
