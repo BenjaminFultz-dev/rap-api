@@ -527,9 +527,9 @@ let rappers = {
         'birthName': 'Raymond Lawrence Riley',
         'birthLocation': 'Chicago, Illinois'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'obie trice': {
+        'age': 43,
+        'birthName': 'Obie Trice III',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
