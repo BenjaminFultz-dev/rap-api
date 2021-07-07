@@ -29,8 +29,8 @@ let rappers = {
     },
     'redman': {
         'age': 50,
-        'birthName': 'Clifford Smith Jr.',
-        'birthLocation': 'Hempstead, New York'
+        'birthName': 'Reginald Noble',
+        'birthLocation': 'Newark, New Jersey'
     }
 }
 
