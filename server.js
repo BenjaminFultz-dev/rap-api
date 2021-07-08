@@ -532,9 +532,9 @@ let rappers = {
         'birthName': 'Obie Trice III',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'trick trick': {
+        'age': 47,
+        'birthName': 'Christian Anthony Mathis',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
