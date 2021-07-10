@@ -26,6 +26,11 @@ let rappers = {
         'age': 50,
         'birthName': 'Clifford Smith Jr.',
         'birthLocation': 'Hempstead, New York'
+    },
+    'redman': {
+        'age': 50,
+        'birthName': 'Clifford Smith Jr.',
+        'birthLocation': 'Hempstead, New York'
     }
 }
 
