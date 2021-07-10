@@ -537,9 +537,9 @@ let rappers = {
         'birthName': 'Christian Anthony Mathis',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
+    'xzibit': {
+        'age': 46,
+        'birthName': 'Alvin Nathaniel Joiner',
         'birthLocation': 'Detroit, Michigan'
     },
 }   
