@@ -21,6 +21,11 @@ let rappers = {
         'age': 26,
         'birthName': 'Dylan',
         'birthLocation': 'Dylan'
+    },
+    'method man': {
+        'age': 50,
+        'birthName': 'Clifford Smith Jr.',
+        'birthLocation': 'Hempstead, New York'
     }
 }
 
