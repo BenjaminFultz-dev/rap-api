@@ -542,10 +542,10 @@ let rappers = {
         'birthName': 'Alvin Nathaniel Joiner',
         'birthLocation': 'Detroit, Michigan'
     },
-    'big sean': {
-        'age': 33,
-        'birthName': 'Sean Michael-Leonard Anderson',
-        'birthLocation': 'Detroit, Michigan'
+    'big boi': {
+        'age': 46,
+        'birthName': 'Antwan Andre Patton',
+        'birthLocation': 'Savannah, Georgia'
     },
 }   
 
