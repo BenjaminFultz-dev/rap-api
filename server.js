@@ -547,6 +547,11 @@ let rappers = {
         'birthName': 'Antwan Andre Patton',
         'birthLocation': 'Savannah, Georgia'
     },
+    'big sean': {
+        'age': 33,
+        'birthName': 'Sean Michael-Leonard Anderson',
+        'birthLocation': 'Detroit, Michigan'
+    },
 }   
 
 
